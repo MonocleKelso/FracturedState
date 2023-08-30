@@ -5,4 +5,4 @@ This won't compile out of the box because certain libraries are omitted due to l
 
 Fractured State was in development for a long time, originally targeting Unity 5.x and upgrading throughout its lifetime until ultimately landing on 2017.1.0p4. Due to that fact, you'll see some cruftiness that was never resolved (ie - globally namespaced MonoBehaviours).
 
-If you'd like to play what was ultimately the last Early Access version we released, it's $0.99 here
+If you'd like to play what was ultimately the last Early Access version we released, it's $0.99 [here](https://store.steampowered.com/app/527960/Fractured_State/).
